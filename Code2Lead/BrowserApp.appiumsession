@@ -1,0 +1,49 @@
+{
+  "version": "1.0",
+  "caps": [
+    {
+      "type": "text",
+      "name": "appium:deviceName",
+      "value": "Pixel 5 API 30"
+    },
+    {
+      "type": "text",
+      "name": "browserName",
+      "value": "Chrome"
+    },
+    {
+      "type": "text",
+      "name": "platformName",
+      "value": "Android"
+    },
+    {
+      "type": "text",
+      "name": "appium:automationName",
+      "value": "UIAutomator2"
+    }
+  ],
+  "server": {
+    "local": {},
+    "remote": {
+      "hostname": "127.0.0.1",
+      "port": "4723",
+      "path": "/wd/hub"
+    },
+    "sauce": {
+      "dataCenter": "us-west-1"
+    },
+    "headspin": {},
+    "browserstack": {},
+    "lambdatest": {},
+    "advanced": {},
+    "bitbar": {},
+    "kobiton": {},
+    "perfecto": {},
+    "pcloudy": {},
+    "testingbot": {},
+    "experitest": {},
+    "roboticmobi": {}
+  },
+  "serverType": "remote",
+  "visibleProviders": []
+}
