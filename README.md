@@ -11,8 +11,8 @@ Pycharm (add to env) <br>
 # Start
 0. Run Emulator PIXEL 3 XL API 22 on Android Studio
 1. Run Appium server GUI -> Settings -> 
-1st ANDROID_HOME == C:\Users\user\AppData\Local\Android\Sdk\ <br>
-2nd JAVA_HOME == C:\tools\jdk\jdk-version  (in my destination)
+a) ANDROID_HOME == C:\Users\user\AppData\Local\Android\Sdk\ <br>
+b) JAVA_HOME == C:\tools\jdk\jdk-version  (in my destination)
 2. Save and restart
 3. hostname 0.0.0.0:4723 == localhost (127.0.0.1:4723) -> startServer
 4. Run Appium inspector
